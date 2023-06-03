@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiendMod", "FiendMod.csproj", "{E98D8F22-22F2-455B-8016-64EE6E60BD2D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{54C27D42-B098-4C69-9127-232F73C7AED9}"
+	ProjectSection(SolutionItems) = preProject
+		.github\workflows\build.yml = .github\workflows\build.yml
+		.github\dependabot.yml = .github\dependabot.yml
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E98D8F22-22F2-455B-8016-64EE6E60BD2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E98D8F22-22F2-455B-8016-64EE6E60BD2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E98D8F22-22F2-455B-8016-64EE6E60BD2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E98D8F22-22F2-455B-8016-64EE6E60BD2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1770FDA4-00AF-474C-8370-E8D3C9A67E12}
+	EndGlobalSection
+EndGlobal
